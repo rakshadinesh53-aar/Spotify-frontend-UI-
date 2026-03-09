@@ -1,0 +1,30 @@
+{
+    "playlist": {
+        "name": "Top Hits 2025",
+        "description": "Best trending songs right now", 
+        "image":"https://i.scdn.co/image/ab67706f00000002ff9ca10b55ce82ae553c8228",
+        "tracks": [
+            {
+                "id": 1, 
+                "name": "Blinding Lights", 
+                "artist": "The Weekend", 
+                "album": "After Hours", 
+                "duration": "3:22"
+            },
+            {
+                "id" : 2,
+                "name" : "Levitating", 
+                "artist" : "Dua Lipa",
+                "album": "Future Nostalgia", 
+                "duration":"3:23"
+            },
+            {
+                "id": 3, 
+                "name": "As It Was",
+                "artist": "Harry Styles",
+                "album": "Harry's House", 
+                "duration": "2:47"
+            }
+        ]
+    }
+}
